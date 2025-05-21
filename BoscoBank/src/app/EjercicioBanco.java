@@ -1,4 +1,4 @@
-package banco;
+package src.app;
 
 import java.io.IOException;
 import java.util.InputMismatchException;
